@@ -1,0 +1,16 @@
+
+zendvn - bookstore written php - oop
+login : admin@gmail.com / 123456
+admin/ 123456
+
+
+LOGIN 
+http://localhost:9090/bookstore/index.php?module=admin&controller=index&action=login
+
+FRONTEND
+http://localhost:9090/bookstore/index.php
+
+PROJECT NAY DA XONG VA DA WORK
+
+
+ 
